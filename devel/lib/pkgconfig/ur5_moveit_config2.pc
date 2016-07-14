@@ -1,0 +1,8 @@
+prefix=/home/mhendrix8/robotarm_ws/devel
+
+Name: ur5_moveit_config2
+Description: Description of ur5_moveit_config2
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/mhendrix8/robotarm_ws/devel/lib 
+Requires: 
